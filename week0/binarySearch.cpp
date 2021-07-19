@@ -56,7 +56,7 @@ int main()
         cin>>key;
         int ans=binarySearch(arr,n,key,cnt);
         if(ans==-1)
-            cout<<"Not Present "<<endl;
+            cout<<"Not Present "<<cnt<<endl;
         else
             cout<<"present "<<cnt<<endl;
         t--;
