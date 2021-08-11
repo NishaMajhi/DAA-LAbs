@@ -1,0 +1,8 @@
+21 23 32 45 46 65 76 89
+comparisons = 16
+inversions = 20
+
+
+21 23 32 45 46 65 76 89
+comparisons = 14
+swap = 10
