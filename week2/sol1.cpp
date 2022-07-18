@@ -8,6 +8,7 @@ void io()
     freopen("output.txt", "w", stdout);
     #endif
 }
+
 void find(int index,int key,vector<int> &arr)
 {
     bool flag=0;
